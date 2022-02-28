@@ -1,4 +1,4 @@
-# Work-Day-Scheduler-Mini
+# Project-Tracker-Mini
 I will create an easy to use a project tracker.
 ## Description
 In this project, I will create a project tracker application using Bootstrap, jQuery, jQueryUI, Moment, and Google Fonts.
